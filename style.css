@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap" rel="stylesheet');
+
+body{
+    background-image: url('./img/hoodie.jpeg');
+    }
+
+.head{
+   color:aliceblue;
+   font-size: 30px;
+}
+
+.maininfo{
+    color: aliceblue;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 30px;
+}
+
+.foot{
+    color: aliceblue;
+}
+
+#INTRO{
+    color: red;
+}
